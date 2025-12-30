@@ -1,6 +1,6 @@
 # ================= CONFIG =================
-$AudioDir = "Hakivun"
-$BaseUrl  = "https://github.com/nechama-z/podcast-nz/hakivun"   # CHANGE THIS
+$AudioDir = "."
+$BaseUrl = "https://nechama-z.github.io/podcast-nz"   # CHANGE THIS
 $OutputFile = "feed.xml"
 
 $FeedTitle = "Hakivun Shiur"
