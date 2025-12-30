@@ -1,0 +1,62 @@
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Hakivun Shiur</title>
+    <link>https://github.com/nechama-z/podcast-nz/hakivun</link>
+    <language>en-us</language>
+    <description>Shiurim from Hakivun by Mrs. Raizy Hirth</description>
+    <author>Mrs Raizy Hirth</author>
+    <explicit>no</explicit>
+    <owner>
+      <name>Mrs Raizy Hirth</name>
+      <email>ngurwitz@gmail.com</email>
+    </owner>
+    <item>
+      <title>Hakivun Schar V'onesh 12.29.25</title>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20Schar%20V'onesh%2012.29.25.m4a</guid>
+      <enclosure url="https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20Schar%20V'onesh%2012.29.25.m4a" length="74421982" type="audio/mp4" />
+    </item>
+    <item>
+      <title>Hakivun Chanukah 12.15.25</title>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20Chanukah%2012.15.25.m4a</guid>
+      <enclosure url="https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20Chanukah%2012.15.25.m4a" length="51466932" type="audio/mp4" />
+    </item>
+    <item>
+      <title>Hakivun  Mitzvos  11.24.25</title>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20%20Mitzvos%20%2011.24.25.m4a</guid>
+      <enclosure url="https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20%20Mitzvos%20%2011.24.25.m4a" length="53619821" type="audio/mp4" />
+    </item>
+    <item>
+      <title>Hakivun Mitzvos 11.17.25</title>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20Mitzvos%2011.17.25.m4a</guid>
+      <enclosure url="https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20Mitzvos%2011.17.25.m4a" length="59082535" type="audio/mp4" />
+    </item>
+    <item>
+      <title>Hakivun Mitzvos 12.8.25</title>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20Mitzvos%2012.8.25.m4a</guid>
+      <enclosure url="https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20Mitzvos%2012.8.25.m4a" length="62399883" type="audio/mp4" />
+    </item>
+    <item>
+      <title>Hakivun Mitzvos 12.1.25</title>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20Mitzvos%2012.1.25.m4a</guid>
+      <enclosure url="https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20Mitzvos%2012.1.25.m4a" length="66079524" type="audio/mp4" />
+    </item>
+    <item>
+      <title>Hakivun Mitzvos 11.3.25</title>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20Mitzvos%2011.3.25.m4a</guid>
+      <enclosure url="https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20Mitzvos%2011.3.25.m4a" length="59410863" type="audio/mp4" />
+    </item>
+    <item>
+      <title>Hakivun Mitzvos 11.10.25</title>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20Mitzvos%2011.10.25.m4a</guid>
+      <enclosure url="https://github.com/nechama-z/podcast-nz/hakivun/Hakivun%20Mitzvos%2011.10.25.m4a" length="59053836" type="audio/mp4" />
+    </item>
+  </channel>
+</rss>
